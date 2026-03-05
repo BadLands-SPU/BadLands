@@ -18,6 +18,10 @@
 		{
 			"Name": "WaterAdvanced",
 			"Enabled": true
+		},
+		{
+			"Name": "Buoyancy",
+			"Enabled": true
 		}
 	]
 }
