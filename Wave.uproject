@@ -12,11 +12,15 @@
 			]
 		},
 		{
-			"Name": "Buoyancy",
+			"Name": "Water",
 			"Enabled": true
 		},
 		{
-			"Name": "Water",
+			"Name": "WaterAdvanced",
+			"Enabled": true
+		},
+		{
+			"Name": "Buoyancy",
 			"Enabled": true
 		}
 	]
